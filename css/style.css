@@ -1,0 +1,168 @@
+;body{
+	background-image:url('../img/background.jpg');
+   
+	background-size:1000px auto;
+	
+	
+}
+
+
+
+
+.header{
+   padding-top:40px;   
+   margin-top:20px;
+   height: 80px;
+   color:white;
+   background-color:#000000f2;
+   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.grid_2{
+	
+}
+
+nav a{
+	text-decoration:none;
+	color:white;
+}
+
+.menu_item{
+	font-size: 20px;
+	cursor: pointer;
+	text-align:center;	
+	color:white;
+}
+
+.menu_item a:hover{
+	font-size:24px;
+	transition: font-size 0.3s;
+	
+	
+}
+
+.aboutme{
+	
+	margin-top:30px;
+	margin-left:170px;
+	font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+	
+}
+.aboutme .grid_12 {
+	background-color:#000000f2;
+	color:white;
+	width:820px;
+	height:300px;
+	margin:20px -97px;
+	text-align:center;
+	border: 1px solid white;	
+	box-shadowk: 1px 1px 5px 2px grey;
+	border-radius:50%;
+}
+
+p{
+	font-size:18px;
+}
+
+.skills{
+	background-color:#000000f2;
+	width:700px;
+	height: 330px;
+	margin:auto;
+	padding-top:5px;
+	color:white;
+	margin-top:30px;	
+	border: 1px solid whit;
+	
+	
+}
+.list{
+	
+	height:200px;
+	margin:auto;
+	font-size:20px;
+	font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+.grid_6{
+		
+}
+
+.project{
+	border:2px dashed black;
+	height:520px;
+	margin-left:auto;
+    margin-top:20px;
+	background-color:#000000f2;
+	box-shadowk: 1px 1px 5px 2px grey;
+}
+.project .grid_4 {
+	background-color:white;
+	text-align:center;
+	width:288px;
+	height:200px;
+	margin-left:16px;
+	margin-bottom:20px;
+	border: 1px solid white;
+	box-shadowk: 1px 1px 5px 2px grey;
+    font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;		
+}
+
+.project .grid_4:hover{
+	width:296px;
+	height:210px;
+	transition:  0.4s;
+	box-shadow: 1px 1px 5px 2px white;
+
+}
+
+	
+
+.project .grid_4  p{
+	font-size:16px;
+}
+.contact {
+	margin-top:20px;
+	height:230px;
+	font-size:;
+	
+	color:white;
+	
+	
+}
+
+.contact .grid_12 {
+	background-color:#000000f2;
+	text-align:center;
+	borderk: 1px solid white;
+	
+	box-shadowk: 1px 1px 5px 2px grey;
+	
+	
+}
+
+.contact .grid_12  p{
+	font-size:20px;
+	margin-top:40px;
+	color:white;
+}
+
+.footer  {
+	background-color:#000000f2;
+	color:white;
+	font-size:16px;
+	width:920x;
+	height:;
+	margin:auto;
+	text-align:center;
+	margin-top:20px;
+	borderk: 1px solid white;
+	
+	font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+.footer .grid_12{
+	background-color:#000000f2;
+}
+footer p {
+	font-size:16px;
+}
